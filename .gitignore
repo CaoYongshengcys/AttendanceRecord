@@ -1,0 +1,10 @@
+# Excel files
+*.xlsx
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+缺勤统计结果.xlsx
